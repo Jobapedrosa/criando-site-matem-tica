@@ -1,18 +1,18 @@
 h1 {
-    background-color: aqua;
+    background-color: rgb(7, 237, 30);
 
 }
 
 body {
     text-align: center;
 
-    background-color: rgb(110, 110, 40);
+    background-color: rgb(229, 229, 23);
 
     
     color: blue;
 }
 
 p { 
-    font-size: 20px;
+    font-size: 30px;
 
 }
